@@ -6,8 +6,7 @@ print("Hello World")
 print("Python", "Programming", 101)
 
 
-# ------------------------------------------------------------
-# 1. COMMENTS
+# COMMENTS
 # ------------------------------------------------------------
 
 # Single-line comment
@@ -19,7 +18,7 @@ Can also be used as a documentation string (docstring).
 
 
 # ------------------------------------------------------------
-# 2. VARIABLES
+# VARIABLES
 # ------------------------------------------------------------
 
 # Variables are used to store data.
@@ -39,7 +38,7 @@ x = y = z = 100
 
 
 # ------------------------------------------------------------
-# 3. INPUT AND OUTPUT
+# INPUT AND OUTPUT
 # ------------------------------------------------------------
 
 # input() always returns a string.
